@@ -1,4 +1,4 @@
-# Creating Register Form (only frontend)
+# Registration Form (Only FrontEnd)
 
 You can use below link to know how to create this app
 
@@ -6,12 +6,17 @@ https://available-soon
 
 **If you face any error after doing below steps, then please update current version of your installed NodeJS software.**
 
+## Starting Code (Base code)
+
+Repositry Number: T5
+
 ## Versions Detail
 
 ### Version 0 (v0)
 
-- Only frontend of the registration form
-- Not glabal styling(css). Instead, style is directly applied to the registration form.
+- Only FrontEnd for Registeration Form
+- No Database connection and operations
+- Simple global styling is applied in globals.css
 
 ## How to Run:
 
